@@ -1,0 +1,19 @@
+{
+  "name": "basic-node-app",
+  "version": "1.0.0",
+  "description": "basic node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariom99/basic-node-app.git"
+  },
+  "author": "hariom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariom99/basic-node-app/issues"
+  },
+  "homepage": "https://github.com/hariom99/basic-node-app#readme"
+}
